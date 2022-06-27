@@ -1,0 +1,70 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main.main",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch cutimg_cols",
+            "request": "launch",
+            "mainClass": "cutimg_cols",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch cv",
+            "request": "launch",
+            "mainClass": "cv",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch face",
+            "request": "launch",
+            "mainClass": "face",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch findContours",
+            "request": "launch",
+            "mainClass": "findContours",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch ftest",
+            "request": "launch",
+            "mainClass": "ftest",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch histogram",
+            "request": "launch",
+            "mainClass": "histogram",
+            "projectName": "projm"
+        },
+        {
+            "type": "java",
+            "name": "Launch importimg",
+            "request": "launch",
+            "mainClass": "importimg",
+            "projectName": "projm"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\opencv\\build\\java\\opencv-3415.jar"
+    ]
+}
